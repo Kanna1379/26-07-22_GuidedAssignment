@@ -1,0 +1,22 @@
+img{
+    margin: 8px 505px;
+    width: 20%;
+    height: 20%;
+}   
+form{
+    width:10%;
+    height:70%;
+    margin: 5px 450px;
+    font-size: 16;
+    border: 1px sloid black;
+    padding : 1% 10% 1% 7%;
+    background-color: pink;
+
+}
+    
+button {
+    background-color: antiquewhite;
+    font-size: 15;
+}
+      
+      

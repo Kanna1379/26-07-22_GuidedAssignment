@@ -1,0 +1,39 @@
+img{
+    height: 450px;
+    width: 450px;
+ }
+ #side1{
+    width:55%;
+    height:60%;
+    padding : 1% 20% 1% 5%;
+    margin: 120px 50px;
+    border: 2px solid gold;
+    background-color: burlywood;
+    font-size: 18;
+    box-sizing: border-box;
+    float:right;
+    
+}
+#side2{
+    width: 25%;
+    height: 40%;
+    margin: 20px 40px;
+    float: left;
+}
+button {
+    background-color: antiquewhite;
+        font-size: 18;
+        padding: 8px 20px;
+        margin: 8px 0;
+        width: 100%;
+      
+  }
+
+  input[type=email], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid black;
+    box-sizing: border-box;
+  }
